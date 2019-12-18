@@ -1,0 +1,11 @@
+Checksums
+=========
+
+MD5
+Peppermint-10-20191210-i386.iso
+cce08dc6dca85eece5c3ebb63e207916
+
+SHA256
+Peppermint-10-20191210-i386.iso
+0bac99011923e370d0171ad2f20430e60160d789da235bf040e4c6223a65f477
+

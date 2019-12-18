@@ -1,0 +1,11 @@
+Checksums
+=========
+
+MD5
+Peppermint-10-20191210-amd64.iso
+03c4beedd13d44027c5406b182676ba0
+
+SHA256
+Peppermint-10-20191210-amd64.iso
+1155d92a2c984eb7593c8aa8de22ea8c6820eda4a5910e2ab65f22c5d9322ead
+
